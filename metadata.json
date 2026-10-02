@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI Studio",
+  "description": "Next-generation production AI Workspace: Coding Agent, Website & App Builder, Live Multi-Device Preview, Sandbox, Image & Video Studio, File Analysis, and Model Registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
